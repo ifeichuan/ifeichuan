@@ -56,16 +56,16 @@ AI + Frontend 开发者 · 湖北商贸学院大三在读
 
 <p align="center">
   <a href="https://github.com/ifeichuan/CommentMarkdownRender">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifeichuan&repo=CommentMarkdownRender&theme=auto&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifeichuan&repo=CommentMarkdownRender&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/ifeichuan/voiceStream">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifeichuan&repo=voiceStream&theme=auto&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ifeichuan&repo=voiceStream&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/volcengine/OpenViking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=OpenViking&theme=auto&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=OpenViking&theme=transparent&hide_border=true" />
   </a>
   <a href="https://github.com/DavidHDev/react-bits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidHDev&repo=react-bits&theme=auto&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidHDev&repo=react-bits&theme=transparent&hide_border=true" />
   </a>
 </p>
 
@@ -74,16 +74,16 @@ AI + Frontend 开发者 · 湖北商贸学院大三在读
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ifeichuan&show_icons=true&theme=auto&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeichuan&layout=compact&theme=auto&hide_border=true&langs_count=6" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ifeichuan&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifeichuan&layout=compact&theme=transparent&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeichuan&theme=auto&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ifeichuan&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeichuan&theme=react&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ifeichuan&theme=github-compact&hide_border=true&area=true" />
 </p>
 
 <br />
