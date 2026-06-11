@@ -18,13 +18,13 @@
 
 ### 👨‍💻 About Me
 
-AI + Frontend 开发者 · 湖北商贸学院大三在读
+湖北商贸学院大三在读
 
-- 🔭 为 [OpenViking](https://github.com/volcengine/OpenViking)（字节开源 Agent 上下文数据库）贡献前端与 Web Agent 模块
-- 🧪 VS Code 插件 [CommentMarkdownRender](https://github.com/ifeichuan/CommentMarkdownRender)（3⭐）—— 注释内实时渲染 Markdown
-- 🎙️ [voiceStream](https://github.com/ifeichuan/voiceStream) · Rust 构建的 Mac 语音转文字工具
-- ✍️ [feichuans.com](https://feichuans.com) · Astro 驱动的个人博客
-- 🌱 深度使用 Claude Code / Cursor / MCP，AI 驱动开发效率 +50%
+- [CommentMarkdownRender](https://github.com/ifeichuan/CommentMarkdownRender) — VS Code 插件，在代码注释内渲染 Markdown 与 LaTeX 公式。普通注释和 JSDoc 读起来费劲，Markdown 对 AI 也更友好
+- [voiceStream](https://github.com/ifeichuan/voiceStream) — Tauri 2 + Rust 的 Mac 桌面应用。两种模式：听写（语音 → 识别 → AI 润色 → 粘贴）和 Agent（语音指令 → Pi agent 后台执行）。支持 6 家 STT，原生毛玻璃 HUD 实时显示转录
+- [feichuans.com](https://feichuans.com) — 基于 GSAP + Astro + React 的个人博客，随手记录
+- 向 [OpenViking](https://github.com/volcengine/OpenViking) 提交 PR：[#2128](https://github.com/volcengine/OpenViking/pull/2128)（已合并）搭建前端控制台 web-studio，含文件系统与 Agent 等基建；[#2346](https://github.com/volcengine/OpenViking/pull/2346) 优化资源浏览器导航、保存延迟与 palette 交互
+- 向 [react-bits](https://github.com/DavidHDev/react-bits) 提交 PR：[#978](https://github.com/DavidHDev/react-bits/pull/978)（已合并）为 Carousel 指示器补齐键盘无障碍支持
 
 ---
 
