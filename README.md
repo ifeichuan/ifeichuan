@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-湖北商贸学院大三在读
+AI + Agent 开发者 · 湖北商贸学院大三在读
 
 - [CommentMarkdownRender](https://github.com/ifeichuan/CommentMarkdownRender) — VS Code 插件，在代码注释内渲染 Markdown 与 LaTeX 公式。普通注释和 JSDoc 读起来费劲，Markdown 对 AI 也更友好
 - [voiceStream](https://github.com/ifeichuan/voiceStream) — Tauri 2 + Rust 的 Mac 桌面应用。两种模式：听写（语音 → 识别 → AI 润色 → 粘贴）和 Agent（语音指令 → Pi agent 后台执行）。支持 6 家 STT，原生毛玻璃 HUD 实时显示转录
