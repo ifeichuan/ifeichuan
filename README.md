@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ====== HEADER BANNER ====== -->
-<img src="https://raw.githubusercontent.com/ifeichuan/ifeichuan/main/banner.jpg" width="100%" />
+<img src="https://raw.githubusercontent.com/ifeichuan/ifeichuan/main/banner.jpg" width="100%" height="220" />
 
 <br />
 
@@ -31,7 +31,7 @@ AI + Frontend 开发者&nbsp;&nbsp;·&nbsp;&nbsp;湖北商贸学院大三在读
 <table align="center">
 <tr>
 <td style="color: #73daca; padding: 4px 12px;">🔭</td>
-<td style="color: #a9b1d6; padding: 4px 0;">为 <a href="https://github.com/OpenViking">OpenViking</a>（字节开源 Agent 上下文数据库）贡献前端与 Web Agent 模块</td>
+<td style="color: #a9b1d6; padding: 4px 0;">为 <a href="https://github.com/volcengine/OpenViking">OpenViking</a>（字节开源 Agent 上下文数据库）贡献前端与 Web Agent 模块</td>
 </tr>
 <tr>
 <td style="color: #73daca; padding: 4px 12px;">🧪</td>
@@ -141,13 +141,13 @@ AI + Frontend 开发者&nbsp;&nbsp;·&nbsp;&nbsp;湖北商贸学院大三在读
 </tr>
 <tr>
 <td style="padding: 6px;">
-  <a href="https://github.com/OpenViking/OpenViking">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenViking&repo=OpenViking&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/volcengine/OpenViking">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=volcengine&repo=OpenViking&theme=tokyonight&hide_border=true" />
   </a>
 </td>
 <td style="padding: 6px;">
-  <a href="https://github.com/react-bits/react-bits">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=react-bits&repo=react-bits&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/DavidHDev/react-bits">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DavidHDev&repo=react-bits&theme=tokyonight&hide_border=true" />
   </a>
 </td>
 </tr>
